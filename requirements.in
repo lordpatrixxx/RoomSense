@@ -1,0 +1,13 @@
+streamlit>=1.57,<2
+pandas
+numpy
+scikit-learn
+plotly
+matplotlib
+seaborn
+joblib
+nbformat
+nbclient
+ipykernel
+pytest
+Markdown

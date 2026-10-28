@@ -1,0 +1,9 @@
+# Ensure LF line endings are preserved for CSV and data files to guarantee SHA-256 integrity
+*.csv text eol=lf
+*.json text eol=lf
+*.py text eol=lf
+*.md text eol=lf
+*.bat text eol=crlf
+*.joblib binary
+*.whl binary
+*.png binary
